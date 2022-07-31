@@ -31,9 +31,9 @@
 - Devs Java Girls (Slack) - É uma comunidade voltada para Java. Tem canal no Youtube com palestras e entrevistas com pessoas que trabalham na área. Link canal Youtube: https://www.youtube.com/c/DevsJavaGirlBR . Tem grupo no Slack (solicitar para moderação)
 
 - Mulheres em Dados (Discord)
-- Cloud Girls https://www.cloudgirls.com.br/ 
-- Afroya Tech https://afroya.tech/
-- Programaria (obs: É pago*)
+- [Cloud Girls](https://www.cloudgirls.com.br/)  
+- [Afroya Tech](https://afroya.tech/)
+- [Programaria](https://www.programaria.org/) (obs: É pago*)
 
 ### Java
 
@@ -43,11 +43,11 @@
 
 ### C# .NET
 
-- [https://www.youtube.com/playlist?list=PLs3yd28pfby7WLEdA7GXey47cKZKMrcwS](C# .NET: Midori Fukami)
+- [C# .NET: Midori Fukami](https://www.youtube.com/playlist?list=PLs3yd28pfby7WLEdA7GXey47cKZKMrcwS)
 
 ### NodeJS
 
-- [https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr](Erick Wendel)
+- [Erick Wendel](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr)
 
 ### Banco de Dados
  
